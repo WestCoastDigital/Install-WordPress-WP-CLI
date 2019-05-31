@@ -13,6 +13,10 @@ valet secure
 ```
 
 ```
+valet db create wp_database
+```
+
+```
 wp core download --skip-content --locale=en_AU
 ```
 
