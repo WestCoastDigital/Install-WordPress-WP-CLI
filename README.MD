@@ -47,9 +47,14 @@ wp plugin install show-current-template --activate
 ```
 wp plugin install imsanity --activate
 ```
-## If you want to install all plugins at once then use the following
+
 ```
-wp plugin install --activate simply-show-hooks disable-gutenberg show-current-template imsanity
+wp plugin install gp-elements-admin-link --activate
+``` 
+
+### If you want to install all plugins at once then use the following
+```
+wp plugin install --activate simply-show-hooks disable-gutenberg show-current-template imsanity gp-elements-admin-link
 ```
 
 ```
