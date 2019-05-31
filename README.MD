@@ -47,6 +47,10 @@ wp plugin install show-current-template --activate
 ```
 wp plugin install imsanity --activate
 ```
+## If you want to install all plugins at once then use the following
+```
+wp plugin install --activate simply-show-hooks disable-gutenberg show-current-template imsanity
+```
 
 ```
 wp theme install generatepress
